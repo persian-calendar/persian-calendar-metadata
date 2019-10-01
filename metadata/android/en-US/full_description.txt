@@ -4,7 +4,7 @@ Gregorian and Islamic calendars.
 
 Also, works with TalkBack accessibility feature of Android.
 
-https://github.com/ebraminio/DroidPersianCalendar
+https://github.com/persian-calendar/DroidPersianCalendar
 
 Please note that the permanent date notification bar can easily be disabled
 from preference. Also, it has a DashClock extension and optional Athan
