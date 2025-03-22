@@ -1,9 +1,8 @@
-Free and open-source Persian Calendar with Compass/Qibla and Athan, and Afghanistan holidays, Dari, Pashto, Tajiki, Kurdish, Turkish, Arabic, Spanish, French, Chinese, Nepali, Urdu, and Japanese support.
+Free and open-source Persian Calendar
+* Compass/Qibla and Athan support
+* Dari, Kurdish, Azeri, Pashto, Arabic, Gilaki, English, Turkish, Japanese, Spanish, Chinese and French languages support.
+* Supports Gregorian and Islamic calendars support.
+* Works with TalkBack accessibility feature of Android also.
+* An optional Athan player.
 
-Supports Gregorian and Islamic calendars as main calendar also.
-
-Also, works with TalkBack accessibility feature of Android.
-
-https://github.com/persian-calendar/DroidPersianCalendar
-
-Please note that the permanent date notification bar can easily be disabled from preference. Also, it has an optional Athan player.
+https://github.com/persian-calendar/persian-calendar
